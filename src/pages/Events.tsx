@@ -1,6 +1,6 @@
 import { Sparkles, ExternalLink, Calendar } from 'lucide-react';
 
-export default function Events() {
+function Events() {
   const day1Events = [
     { name: 'Open Mic', formLink: 'https://forms.gle/76cxnHmrLmaaZDEg9' },
     { name: 'Mime', formLink: 'https://forms.gle/eSFZuJ7E3ma6CYgU9' },
@@ -133,4 +133,4 @@ export default function Events() {
 }
 
 
-export default Events
+export default Events;
