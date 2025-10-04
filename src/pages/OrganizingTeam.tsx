@@ -5,15 +5,15 @@ export default function OrganizingTeam() {
     { name: 'Meenakshi P', role: 'President', icon: Crown, color: 'from-teal-400 to-purple-400' },
     { name: 'B Sanjeev', role: 'Vice President', icon: Shield, color: 'from-purple-400 to-teal-400' },
     { name: 'DN Naveen', role: 'Secretary', icon: Star, color: 'from-teal-400 to-red-400' },
-    { name: 'D Lidia Juniper', role: 'Joint Secretary', icon: Star, color: 'from-red-400 to-purple-400' },
+    { name: 'D Lidia Jenniffer', role: 'Joint Secretary', icon: Star, color: 'from-red-400 to-purple-400' },
     { name: 'B Kotteeswari', role: 'Organizing Secretary', icon: Star, color: 'from-purple-400 to-teal-400' },
     { name: 'R P Thanushree', role: 'Treasurer', icon: Star, color: 'from-teal-400 to-purple-400' },
     { name: 'Kiran', role: 'Deputy Treasurer', icon: Star, color: 'from-purple-400 to-red-400' },
   ];
 
   const coordinators = [
-    'Advaita', 'Arshad', 'Fyshel', 'Jishnu', 'Kiruthick', 'Shankaran',
-    'Shakti', 'Rineshwar', 'Sagar', 'Tamil Selvi', 'Tamilarasu', 'Pavitra',
+    'Advaitha', 'Arshad', 'Fyshel', 'Jishnu', 'Kiruthick', 'Shankaran',
+    'Shakti', 'Renishwar', 'Sagar', 'Tamil Selvi', 'Tamilarasu', 'Pavitra',
     'Mukund', 'Mantira'
   ];
 

@@ -25,13 +25,13 @@ export default function Footer() {
             <h4 className="text-teal-400 font-semibold mb-4">Connect With Us</h4>
             <div className="space-y-3">
               <a
-                href="https://instagram.com/ccc_dgv"
+                href="https://instagram.com/ccc_dgvc"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 text-gray-400 hover:text-teal-400 transition-colors group"
               >
                 <Instagram size={20} className="group-hover:scale-110 transition-transform" />
-                <span>@ccc_dgv</span>
+                <span>@ccc_dgvc</span>
               </a>
               <a
                 href="https://chat.whatsapp.com/EQ71lFh8k7xIGs48fWRZGN?mode=ems_copy_t"
